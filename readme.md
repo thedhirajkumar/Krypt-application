@@ -47,7 +47,7 @@ Follow these steps to set up the project on your local system:
 
 🌐 Live Demo
 
-
+Check out the live demo: https://krypto-pi.vercel.app/
 
 ✨ Acknowledgments
 
@@ -58,3 +58,7 @@ Special thanks to the Web 3.0 community and all contributors for making blockcha
     Ensure you use a test network (like Sepolia) for development.
     Transactions involve real ETH on the mainnet. Exercise caution.
 
+📜 License
+
+This project is licensed under Swarup Chanda.
+All Rights Reserved to Swarup Chanda 2025
