@@ -2,8 +2,7 @@
 
 This is a **Web 3.0 Blockchain Application** built using modern web development technologies and blockchain methodologies. This project demonstrates how to build a fully functional Web 3.0 application from start to finish, leveraging **Solidity**, **Metamask**, and **React**.
 
-## Home screen
-![Home screen] (https://github.com/thedhirajkumar/Krypt-application/blob/2d46c844f3b3265b127853ab98a480315d18c763/Screenshot%202025-03-12%20151615.png)
+
 ## 🌟 Features
 
 - Connect your **Ethereum wallet** using Metamask.
