@@ -1,13 +1,35 @@
-# Sample Hardhat Project
+# Krypt - Web 3.0 Blockchain Application
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This is a **Web 3.0 Blockchain Application** built using modern web development technologies and blockchain methodologies. This project demonstrates how to build a fully functional Web 3.0 application from start to finish, leveraging **Solidity**, **Metamask**, and **React**.
 
-Try running some of the following tasks:
+## 🌟 Features
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+- Connect your **Ethereum wallet** using Metamask.
+- Send cryptocurrency securely across the blockchain.
+- Explore blockchain features like **immutability**, **low transaction fees**, and **enhanced security**.
+- Dynamic and responsive user interface with **React** and **Tailwind CSS**.
+- Key features include:
+  - Sending ETH to specified addresses.
+  - Blockchain transaction insights and verification.
+  - Support for GIF keyword-based messaging.
+
+## 🛠️ Tech Stack
+
+- **React.js** for the frontend.
+- **Tailwind CSS** for responsive and modern UI.
+- **Solidity** for writing smart contracts.
+- **Metamask** integration for blockchain interactions.
+- **Web3.js** or **Ethers.js** for connecting with Ethereum blockchain.
+
+## 🚀 Getting Started
+
+### Prerequisites
+- **Node.js** (v14+ recommended)
+- **Metamask Extension** installed in your browser.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/krypt-blockchain-app.git
+   cd krypt-blockchain-app
