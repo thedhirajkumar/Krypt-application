@@ -2,6 +2,8 @@
 
 This is a **Web 3.0 Blockchain Application** built using modern web development technologies and blockchain methodologies. This project demonstrates how to build a fully functional Web 3.0 application from start to finish, leveraging **Solidity**, **Metamask**, and **React**.
 
+##Home
+![Image](https://github.com/user-attachments/assets/af44ba91-6a79-4a2e-b79a-d26503510086)
 
 ## 🌟 Features
 
